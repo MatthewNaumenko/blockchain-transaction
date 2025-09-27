@@ -94,9 +94,8 @@ Blockchain System Menu
 | 8 | Exit                      | Выход из системы                                                          |
 
 ## Документация
-Полная документация проекта доступна в двух форматах:
-1. **Онлайн-версия**: [GitHub Pages](https://matthewnaumenko.github.io/base-blockchain-transaction-system/)
-2. **Локальная генерация**:
+Полная документация проекта доступна:
+1. **Локальная генерация**:
    ```bash
    doxygen Doxyfile
    ```
